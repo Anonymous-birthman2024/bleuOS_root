@@ -1,0 +1,16 @@
+settings = {
+   "setPassword": True,
+"password": "123456",
+"doLoginVerif": True,
+"doAutoMemoryAllocation": False,
+"doBlockExplicits": False,
+"doAllowAdmin": False,
+"doAllowReinstallation": True,
+"allowMultipleProfiles": False,
+"allowOSinBase": True,
+"doOptimiseBattery": True,
+"doScreenSaver": True,
+"doSleepOnInactivity": False,
+"doPreinstallApps": True,
+"doRequirePasswordToInstall": True 
+}

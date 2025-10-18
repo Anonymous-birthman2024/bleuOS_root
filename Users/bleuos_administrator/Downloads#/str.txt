@@ -1,0 +1,25 @@
+workflow：
+    1 launch OS main
+    2 display accounts when /lg used
+    3 login with /lg
+    4 /cda <apps>
+    5 /-lg <username>
+
+arch：
+    /
+    os—app
+    sub-apps
+        
+    os-settings
+        accounts
+        os-configs
+    users        
+        root
+            user—apps
+                data
+                user-app-settings
+            user-data
+                a
+                b
+                c
+        user—b

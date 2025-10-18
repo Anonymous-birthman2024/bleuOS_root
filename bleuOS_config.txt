@@ -1,0 +1,4 @@
+arch = "macosx_x86_64"
+memory = 2GB
+storage = 20GB
+version = "bv0.1.5#"
