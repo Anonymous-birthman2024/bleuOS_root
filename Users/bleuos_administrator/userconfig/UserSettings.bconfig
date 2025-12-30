@@ -1,2 +1,7 @@
-setPassword:False
-password:000000
+setPassword = False
+#password = "000000"
+doScreenTime = False
+stp = "NULL"
+limitedApps = {
+    "abcde-123456789-[version (dd|mm|yyyy)]", #System Identifier of App
+}
